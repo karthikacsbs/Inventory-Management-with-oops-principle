@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// used inheritance
 // Base class for inventory management
 class ProductStockLevel {
     void displayWelcomeMessage() {
